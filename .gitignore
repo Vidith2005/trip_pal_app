@@ -1,0 +1,62 @@
+# =========================
+# Flutter & Dart
+# =========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# =========================
+# Android Studio / IntelliJ
+# =========================
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+*.keystore
+*.jks
+
+# =========================
+# Xcode (if you target iOS later)
+# =========================
+**/DerivedData/
+**/Pods/
+**/.symlinks/
+**/xcuserdata/
+
+# =========================
+# VSCode
+# =========================
+.vscode/
+
+# =========================
+# Logs & Misc
+# =========================
+*.log
+*.class
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# =========================
+# Keys & Config Files
+# =========================
+.env
+*.env
+keys/
+secrets/
